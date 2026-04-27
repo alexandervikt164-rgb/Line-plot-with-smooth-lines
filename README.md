@@ -83,6 +83,6 @@ plt.grid(True, ls=':', alpha=0.6) # Making grid
 
 plt.ylim(0, 16)
 
-plt.show() # Show the plot\
+plt.show() # Show the plot
 
 ```

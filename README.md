@@ -1,4 +1,4 @@
-# 🚀 My Data Science Journey
+# 🚀 My Data Science project
 
 Hi there! I'm Alex. I am an aspiring Data Scientist. My long-term goal is to master AI logic using **C++**
 
@@ -19,7 +19,7 @@ In this script, I focused on:
 * **Future Focus:** `C++`, `Computer Vision`, `Neural Networks`
 
 ---
-If you like my progress, feel free to leave a ⭐!
+If you like my code, feel free to leave a ⭐!
 
 Code 👇
 ---

@@ -52,9 +52,6 @@ plt.plot(days_smooth, group_smooth, 'r', label='Progress of others', linewidth=2
 plt.fill_between(days_smooth, skills_smooth, color='yellow', alpha=0.1) 
 plt.fill_between(days_smooth, group_smooth, color='red', alpha=0.1)  
 
-plt.plot(days, skills, 'oy', markersize=5) 
-plt.plot(days, group_skills, 'or', markersize=5) 
-
 plt.annotate('The highest point!', # <-- making comment, with parametrs
              xy=(19, 15), 
              xytext=(15, 15.5), 
